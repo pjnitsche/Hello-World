@@ -8,7 +8,7 @@
 *Hello World*
 
 # H3 Description
-**First project on GitHub
+**First project on GitHub**
 
 # H4 How to run program 
 > Directions found below in README.md
